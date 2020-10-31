@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="10">
+    <list key="modules" value0="DynamicWebPage::org.eclipse.jst.jee.server:DynamicWebPage::jst.web::3.1" value1="jsp Form::org.eclipse.jst.jee.server:jsp Form::jst.web::3.1" value2="Response Implicit::org.eclipse.jst.jee.server:Response Implicit::jst.web::3.1" value3="jspDirectives::org.eclipse.jst.jee.server:jspDirectives::jst.web::3.1" value4="Include::org.eclipse.jst.jee.server:Include::jst.web::3.1" value5="Forward::org.eclipse.jst.jee.server:Forward::jst.web::3.1" value6="Servlet_1::org.eclipse.jst.jee.server:Servlet_1::jst.web::3.1" value7="WithWeb::org.eclipse.jst.jee.server:WithWeb::jst.web::3.1" value8="spring-boot-demo2::org.eclipse.jst.j2ee.server:spring-boot-demo2::jst.web::2.3" value9="spring-boot-demo3::org.eclipse.jst.j2ee.server:spring-boot-demo3::jst.web::2.3"/>
+  </server>
+</servers>

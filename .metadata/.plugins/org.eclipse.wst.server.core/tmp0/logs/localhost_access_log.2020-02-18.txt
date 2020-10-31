@@ -1,0 +1,6 @@
+127.0.0.1 - - [18/Feb/2020:08:49:45 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [18/Feb/2020:08:53:13 +0530] "GET /spring-boot-demo2/WEB-INF/classes/com/nibm/controller/SpringBootWebApplication.java HTTP/1.1" 404 816
+0:0:0:0:0:0:0:1 - - [18/Feb/2020:08:53:50 +0530] "GET /spring-boot-demo2/WEB-INF/classes/com/nibm/controller/MvcConfiguration.java HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [18/Feb/2020:08:53:55 +0530] "GET /spring-boot-demo2/WEB-INF/classes/com/nibm/controller/MvcConfiguration.java HTTP/1.1" 404 808
+127.0.0.1 - - [18/Feb/2020:09:55:18 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [18/Feb/2020:09:55:19 +0530] "GET /spring-boot-demo2/WEB-INF/view/contact.jsp HTTP/1.1" 404 682

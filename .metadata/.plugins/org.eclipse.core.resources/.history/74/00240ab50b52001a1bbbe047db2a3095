@@ -1,0 +1,5 @@
+package com.nibm.controller;
+
+public class MvcController {
+
+}
